@@ -1,0 +1,6 @@
+experiment_name,sample_id,fauxness,category_guess
+dry run.48503,662818,0.470254257064,AMBIGUous
+,,,
+trial 19298_retry,265521,NaN,FAKE
+test.33558retry,804781,0.445212414113,ambiguous
+attempt634912,588569,16.0699455904,real
